@@ -9,3 +9,5 @@ Incomplete.
 ## NOTE FOR CONTRIBUTORS
 When making a pull request, include the advantages of a commit if it's a new feature. If it's a bug, include the output before the bug was fixed, and after 
 the bug was fixed. 
+## irc
+irc.snoonet.org, #zln9021e
